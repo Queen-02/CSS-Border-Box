@@ -4,20 +4,33 @@
   font-size: 40px;
 }
 .box-one{
-  
+  border: 5px double crimson;
+  height: 600px;
+  width: 650px;
+  margin-left: 6%;
+  margin-top: 5%;
+  border-radius: 5px;
+}
+.two{
+  outline: 20px outset purple;
+  height: 400px;
+  width: 400px;
+  margin-top: 8%;
+  margin-left: 12%;
 }
 .box{
   background-color: rgb(30, 102, 210);
   padding: 50px;
   border: 20px solid coral;
   margin: 20px;
-  height: 500px;
-  width: 500px;
+  height: 300px;
+  width: 300px;
   box-sizing: border-box;
-  outline: 20px outset purple;
-  margin-top: 10%;
-  margin-left: 20%;
+  /* outline: 20px outset purple; */
+  margin-top: 3%;
+  margin-left: 12%;
   border-radius: 5px;
+  
 }
 h1{
   text-align: center;
